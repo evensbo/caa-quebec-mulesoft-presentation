@@ -2,7 +2,7 @@
   "name": "caa-quebec-mulesoft-presentation",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://ebonifasse.github.io/caa-quebec-mulesoft-presentation",
+  "homepage": "https://evensbo.github.io/caa-quebec-mulesoft-presentation",
   "type": "module",
   "scripts": {
     "dev": "vite",
