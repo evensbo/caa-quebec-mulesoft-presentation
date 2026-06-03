@@ -519,8 +519,8 @@ export default function App() {
 
             <div className="p-4 bg-indigo-500/5 rounded-xl border border-indigo-500/20 text-center text-xs text-indigo-300 mt-4">
               {language === 'en' 
-                ? "🛡️ Preserving Partnerships: This architecture creates a massive delivery opportunity for Levio to construct the modern API layer while retaining complete alignment with Paulo."
-                : "🛡️ Préserver les partenariats : Cette architecture offre une excellente opportunité de livraison à Levio pour construire la couche moderne d'API, tout en restant pleinement aligné avec Paulo."}
+                ? "🛡️ Preserving Partnerships: This architecture creates a massive delivery opportunity for Levio to construct the modern API layer while retaining complete alignment with CAA."
+                : "🛡️ Préserver les partenariats : Cette architecture offre une excellente opportunité de pour Levio de construire la couche d'API moderne, tout en restant pleinement aligné avec CAA."}
             </div>
           </div>
 
@@ -873,13 +873,13 @@ export default function App() {
               </h3>
               <p className="text-slate-300 text-sm leading-relaxed mb-4">
                 {language === 'en'
-                  ? "The objective is not to close on a rigid blueprint in our next conversation. Rather, we want to establish architectural credibility, build momentum with Paulo, and set up a structured Proof-of-Value (POV)."
-                  : "L'objectif n'est pas de s'arrêter sur un schéma rigide lors de notre prochaine conversation. Nous souhaitons plutôt établir une crédibilité architecturale, créer une dynamique avec Paulo et mettre en place une preuve de valeur (POV) structurée."}
+                  ? "The objective is not to close on a rigid blueprint in this meeting. Rather, we want to establish architectural awarness, build momentum with CAA, and set up a structured discussion on this initiative's value."
+                  : "L'objectif n'est pas de s'arrêter sur un schéma rigide lors de cette rencontre. Nous souhaitons plutôt établir une crédibilité architecturale, créer une dynamique avec CAA et mettre en place une discussion sur la valeur de cette initiative."}
               </p>
               
               <div className="bg-slate-950 p-4 rounded-xl border border-slate-800/80 my-4 space-y-2">
                 <h4 className="text-xs font-bold text-teal-400 uppercase tracking-wide">
-                  {language === 'en' ? "Key Reassurance For Paulo:" : "Rassurance clé pour Paulo :"}
+                  {language === 'en' ? "Key Reassurance For CAA:" : "Rassurance clé pour CAA :"}
                 </h4>
                 <p className="text-xs text-slate-400 leading-relaxed">
                   {language === 'en'
